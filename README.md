@@ -8,9 +8,9 @@
 
 
 #### 安装教程
-1.  运行book.sql文件创建数据库
-2.  将application.yml文件中的数据库连接信息改成自己的数据库
-3.  在vue-test集成终端下重新下载node_modules （运行npm install）
+1.  数据库，运行book.sql文件创建数据库
+2.  后端，将application.yml文件中的数据库连接信息改成自己的数据库,(记得把IDEA设置本地maven仓库 )
+3.  前端，在vue-test集成终端下重新下载node_modules （运行npm install）
 
 #### 使用说明
 
